@@ -8,26 +8,27 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-<img align="right" alt="coding" width="475" src="https://github.com/sonam-gupta-letsconnect/sonam-gupta-letsconnect/assets/140079682/9bc34409-d752-45f0-a06a-491c7a6c4871" height="350px">
+<img align="right" alt="Cloud Certificate By Great Learning" width="495" src="https://github.com/sonam-gupta-letsconnect/sonam-gupta-letsconnect/assets/140079682/9bc34409-d752-45f0-a06a-491c7a6c4871" height="330px">
 
 ## 💫 About Me:
-🌱 I’m currently enlightening myself with Java & Springboot.
+🌱 I’m currently enlightening myself with AWS and Azure.
 <br>
-💬 Ask me about HTML, CSS & JavaScript.
+💬 Ask me about AWS, Azure & Google Cloud.
 <br>
 👨‍💻 All my projects are available in the [sonam-gupta-letsconnect.github.io](https://sonam-gupta-letsconnect.github.io/)
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1-qOyvu6zrT9uGPYnULMygT0agZHLRpdX/view?usp=share_link).
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1C8qeoLNsZiTUKASQG0xYjfvKFoy8fwP-/view?usp=sharing).
 <br>
 🤝 I’m also reachable at gsonam2101@gmail.com
 
 <br>
 
-📫 You can connect with me via this <a href="https://www.linkedin.com/in/sonam-gupta-letsconnect/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or by <a href="mailto:gsonam2101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
+📫 You can connect with me via this <a href="https://www.linkedin.com/in/sonam-gupta-letsconnect/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or <a href="mailto:gsonam2101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
 
 <br>
 
 ## 💻 Tech Stack:
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp; 
