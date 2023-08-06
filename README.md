@@ -7,8 +7,7 @@
 </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-<a href="https://olympus1.mygreatlearning.com/certificate/XMOQLSEE">
-<img align="right" alt="Cloud Certificate By Great Learning" width="495" src="https://github.com/sonam-gupta-letsconnect/sonam-gupta-letsconnect/assets/140079682/9bc34409-d752-45f0-a06a-491c7a6c4871" height="330px"> </a>
+<a href="https://olympus1.mygreatlearning.com/certificate/XMOQLSEE"><img align="left" alt="Cloud Certificate By Great Learning" width="495" src="https://github.com/sonam-gupta-letsconnect/sonam-gupta-letsconnect/assets/140079682/9bc34409-d752-45f0-a06a-491c7a6c4871" height="330px"/></a>
 
 ## 💫 About Me:
 🌱 I’m currently enlightening myself with AWS and Azure.
