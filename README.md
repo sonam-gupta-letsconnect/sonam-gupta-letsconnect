@@ -7,6 +7,9 @@
 </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+<img width="520" alt="Screenshot 2023-08-06 123539" src="https://github.com/sonam-gupta-letsconnect/sonam-gupta-letsconnect/assets/140079682/9bc34409-d752-45f0-a06a-491c7a6c4871">
+
+
 
 <img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px">
 
