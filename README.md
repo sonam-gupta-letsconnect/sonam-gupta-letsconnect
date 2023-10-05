@@ -14,7 +14,7 @@
 <br>
 💬 Ask me about AWS, Azure & Google Cloud.
 <br>
-👨‍💻 All my projects are available in the [sonam-gupta-letsconnect.github.io](https://sonam-gupta-letsconnect.github.io/)
+👨‍💻 All my projects are available in the [ePortfolio](https://olympus.mygreatlearning.com/eportfolio)
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1C8qeoLNsZiTUKASQG0xYjfvKFoy8fwP-/view?usp=sharing).
 <br>
